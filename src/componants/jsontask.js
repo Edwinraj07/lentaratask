@@ -8,7 +8,7 @@ import StarRatings from "react-star-ratings";
 export function Jsontask(){
     const [details,setDetails]=useState([]);
     useEffect(()=>{
-        fetch("http://localhost:3000/data.json")
+        fetch("https://lentaratask.vercel.app/data.json")
         .then(info=>info.json())
         .then(data=>setDetails(data))
     },[])
