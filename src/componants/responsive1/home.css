@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding-left:0;
+    padding-right:0;
+}
+.homecontent{
+    background-image: url("./homebg3.jpg");
+    background-size: cover;
+    height: 100%;
+    width:100%;
+    padding-bottom: 18%;
+}
+
+.first{
+    margin-top: 20%;
+}
+
+.parahome{
+    font-size: 30px;
+    color: rgb(0, 5, 5);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}

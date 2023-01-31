@@ -1,0 +1,65 @@
+.skills{
+    background-color: rgb(24, 26, 43);
+}
+
+.quote{
+    font-size: 60px;
+    font-family: 'Josefin Sans', sans-serif;
+    color:white;
+    font-weight:bolder;
+}
+
+.abtquote{
+   
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.steve{
+    color:gainsboro;
+    font-size: 32px;
+    
+}
+
+.quote2{
+    color:rgb(159, 250, 255);
+}
+
+.html1{
+    height:20px;
+}
+
+.html2{
+    width:90%;
+}
+
+.css{
+    width:85%;
+}
+
+.js{
+    width:80%;
+}
+
+.java{
+    width:85%;
+}
+
+.react{
+    width: 82%;
+}
+
+.mysql{
+    width:92%;
+}
+
+.nodejs{
+    width:78%;
+}
+
+.photoshop{
+    width:82%;
+}
+
+.quotes2{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}

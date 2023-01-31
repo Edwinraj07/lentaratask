@@ -1,0 +1,83 @@
+[{
+    "Image":"https://m.media-amazon.com/images/I/611mRs-imxL._SX679_.jpg",
+    "Brand":"Apple ",
+    "Description":"Apple iPhone 14 512GB (Product) RED",
+    "Price":"₹1,06,900",
+    "star":5
+
+},
+
+{
+    "Image":"https://m.media-amazon.com/images/I/610pghkO81L._SL1500_.jpg",
+    "Brand":"Apple",
+    "Description":"Apple iPhone 14 Pro Max 128GB Space Black",
+    "Price":"1,39,900 ",
+    "star":3.5
+
+},
+{
+    "Image":"https://m.media-amazon.com/images/I/61-r9zOKBCL._SX679_.jpg",
+    "Brand":"Apple ",
+    "Description":"Apple iPhone 13 (256 GB) - Green",
+    "Price":"₹1,50,099",
+    "star":4
+
+},
+{
+    "Image":"https://m.media-amazon.com/images/I/61nzPMNY8zL._SL1500_.jpg",
+    "Brand":"Apple ",
+    "Description":"Apple iPhone 14 Pro Max 1TB Silver",
+    "Price":"₹99,008",
+    "star":4.2
+
+},
+{
+    "Image":"https://m.media-amazon.com/images/I/71i2XhHU3pL._SX679_.jpg",
+    "Brand":"Apple ",
+    "Description":"Nike Mens M Air Max Alpha Trainer 5 Running Shoe",
+    "Price":"₹66,000",
+    "star":3.8
+
+},
+{
+    "Image":"https://m.media-amazon.com/images/I/610pghkO81L._SL1500_.jpg",
+    "Brand":"Apple ",
+    "Description":"Apple iPhone 12 (64GB) - Purple",
+    "Price":"₹89,000",
+    "star":3.2
+},
+{
+    "Image":"https://m.media-amazon.com/images/I/71ZDY57yTQL._SX679_.jpg",
+    "Brand":"Apple ",
+    "Description":"Apple iPhone 14 pro (64GB) - Purples",
+    "Price":" ₹33,979",
+    "star":4.7
+
+},
+{
+    "Image":"https://m.media-amazon.com/images/I/71ZOtNdaZCL._SX679_.jpg",
+    "Brand":"Apple ",
+    "Description":"Apple iPhone 12 (64GB) - Blue",
+    "Price":" ₹55,990",
+    "star":4.6
+
+},
+{
+    "Image":"https://m.media-amazon.com/images/I/71ZDY57yTQL._SX679_.jpg",
+    "Brand":"Apple ",
+    "Description":"Apple iPhone 14 Pro 1TB Gold",
+    "Price":"₹89,599",
+    "star":4.1
+
+},
+{
+    "Image":"https://m.media-amazon.com/images/I/61YSNhAb00L._SL1500_.jpg",
+    "Brand":"Apple ",
+    "Description":"Apple iPhone 14 Pro 128TB Gold",
+    "Price":"₹78,349",
+    "star":3.4
+
+}
+
+
+]

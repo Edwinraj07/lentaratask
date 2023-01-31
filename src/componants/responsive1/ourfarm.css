@@ -1,0 +1,28 @@
+.ourfarmcontent{
+  
+    height: 60vh;
+    width: 50%%;
+    
+}
+
+.boxfarm{
+    height: 50vh;
+    padding-top: 9%;
+    width:60%;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.happy2{
+    
+    font-size: 60px;
+    color:rgb(110, 75, 9);
+}
+
+.happy3{
+color:green;
+width: 50%;
+}
